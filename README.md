@@ -118,3 +118,8 @@ Todas as funcionalidades do aplicativo se encontram no canto inferior da tela, c
  
  
 Ao deslizar a capa da música, ela irá passar para a próxima música se for deslizada da direita para a esquerda, e para a música anterior se for deslizada da esquerda para a direita. Se for deslizada para baixo, o usuário poderá ver mais detalhes sobre a música, como a letra (se o artista disponibilizar), DNA do artista, álbuns e artistas relacionados, shows/turnês disponíveis (se o artista estiver em uma) e o videoclipe da música (se o artista disponibilizar).
+
+
+#### Comparação entre versões
+ 
+Como citado anteriormente, uma das funções existentes no mobile, mas inexistente na web, é o próprio "modo offline". Mas existem outras funcionalidades que são exclusivas do app mobile, como o botão "Sua cápsula sonora", que mostra todo o seu histórico de artistas/músicas/álbuns que você escutou no último mês, tendo como diferencial mostrar os minutos totais exatos de músicas tocadas dentro do aplicativo e a sua porcentagem em relação ao resto dos seus amigos e ouvintes da sua região. Esta função não está disponível nem para a web nem para a sua versão executável de computador.
