@@ -117,3 +117,4 @@ Todas as funcionalidades do aplicativo se encontram no canto inferior da tela, c
 |<img width="1080" height="2240" alt="image" src="https://github.com/user-attachments/assets/6b953fcf-cc7d-437d-aa93-8a4dda4eae9c" />| <img width="1080" height="2229" alt="image" src="https://github.com/user-attachments/assets/52ce4e52-ce2b-45f0-b5fb-4fb641379164" /> |
  
  
+Ao deslizar a capa da música, ela irá passar para a próxima música se for deslizada da direita para a esquerda, e para a música anterior se for deslizada da esquerda para a direita. Se for deslizada para baixo, o usuário poderá ver mais detalhes sobre a música, como a letra (se o artista disponibilizar), DNA do artista, álbuns e artistas relacionados, shows/turnês disponíveis (se o artista estiver em uma) e o videoclipe da música (se o artista disponibilizar).
