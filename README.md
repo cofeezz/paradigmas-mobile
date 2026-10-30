@@ -260,3 +260,28 @@ setFavoriteIds((anterior) => {
 <!-- Outras possíveis: grid com auto-fill x numColumns; barra lateral x navegação por abas; box-shadow x shadow*/elevation; object-fit x resizeMode; navegação por router x navegação mobile (ainda não implementada). -->
  
 ---
+
+## 4. Conclusão
+ 
+Antes, eu pensava a interface a partir do navegador: uma tela grande, mouse, internet sempre disponível e uma atualização que chega a todos de uma vez. Depois da pesquisa e da reconstrução, percebo que preciso partir das restrições do dispositivo e do contexto de uso. Isso significa pensar no toque e no alcance do polegar antes do visual, tratar a falta de rede como um estado normal da tela, cuidar da memória e da bateria e aceitar que o sistema pode pausar ou encerrar o app. Também preciso lembrar que publicar uma versão nova passa por lojas e por usuários que continuam com versões antigas. Na prática, isso muda como organizo componentes, estado e estilos: com menos herança de estilo, com estado bem posicionado e com listas e áreas de toque pensadas para o celular.
+
+---
+ 
+## Referências
+ 
+APPLE. **Human Interface Guidelines**. Disponível em: https://developer.apple.com/design/human-interface-guidelines. Acesso em: 15/10/2026
+ 
+GOOGLE. **Material Design 3**. Disponível em: https://m3.material.io. Acesso em: 25/10/2026
+ 
+REACT NATIVE. **Documentação oficial**. Disponível em: https://reactnative.dev/docs/getting-started. Acesso em: 19/10/2026
+ 
+EXPO. **Documentação**. Disponível em: https://docs.expo.dev. Acesso em: 19/10/2026
+ 
+---
+ 
+## Declaração de uso de IA
+ 
+ANTHROPIC. Claude (modelo: CONFIRA NA SUA INTERFACE). Ferramenta de inteligência artificial generativa.
+Data de uso: 19 a 27 out. 2026.
+Finalidade: apoio na reconstrução da tela de biblioteca de jogos em React Native (estrutura dos componentes, filtros, busca e favoritos), com base no código Angular enviado.
+Arquivos impactados: App.js, src/components/GameCard.js, src/components/FilterBar.js, src/components/SearchBar.js, src/components/LibraryScreen.js
